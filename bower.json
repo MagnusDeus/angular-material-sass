@@ -10,5 +10,13 @@
     ".gitignore",
     "README.md"
   ],
+  "keywords": [
+    "angular",
+    "AngularJS",
+    "material design",
+    "bower angular material",
+    "scss",
+    "sass"
+  ],
   "license": "MIT"
 }
